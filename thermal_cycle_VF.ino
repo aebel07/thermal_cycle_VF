@@ -3,7 +3,7 @@
 #include <Wire.h>
 #include <MemoryFree.h>
 //pins
-//azefzef
+//azefzef zefzef
 #define BUTTON_PAUSE 2 // to pause during cycle
 #define ENCODER_PIN_CLK 3 // Connected to CLK on KY-040
 #define ENCODER_PIN_DT 4 // Connected to DT on KY-040
